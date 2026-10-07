@@ -119,6 +119,6 @@ That means data is not automatically synchronized between devices, clearing brow
 
 ## Author
 
-**Student Project**
+**Divyanshu Raj**
 
 Built as a final-year B.Tech portfolio project to demonstrate fundamentals of HTML, CSS, JavaScript, browser storage, DOM manipulation, and basic data visualization.
